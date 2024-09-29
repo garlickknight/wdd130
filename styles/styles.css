@@ -1,26 +1,41 @@
 
 nav {
     background-color: steelblue;
-    padding: 10px;
-}
+    padding: 10px;}
 
 nav a {
     color: white;
     display: block;
-    padding: 20px
-}
+    padding: 20px}
 
 h1 {
-    color: steelblue;
-}
+    color: steelblue;}
 
-img {
+main img {
     width: 150px;
     height: auto;
     border: 1px solid steelblue;
     padding: 2px;
-    box-shadow: 0 0 30 px gray;
-}
-p {
-    padding: 10px;
-}
+    box-shadow: 0 0 30 px gray;}
+p {padding: 0;}
+
+main {
+    max-width: 840px}
+
+aside {
+    width: 12.75rem;
+    margin: 1rem;
+    border: 10px solid rgb(138, 172, 252);
+    padding: rem;
+    background-color: rgb(138, 172, 252);
+    color: hsla(200,0%,0%,.7);
+    text-align: left;}
+
+aside img {
+    width: 200px;
+    height: auto;}
+
+footer {
+    margin-top: 10rem; 
+    border-top: 10px solid black; 
+    text-align: center;}
