@@ -16,7 +16,7 @@ main img {
     height: auto;
     border: 1px solid steelblue;
     padding: 2px;
-    box-shadow: 0 0 30 px gray;}
+    box-shadow: 0 0 30;}
 p {padding: 0;}
 
 main {
