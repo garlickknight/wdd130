@@ -1,6 +1,9 @@
 
+:root {
+    --consistant-blue: steelblue
+}
 nav {
-    background-color: steelblue;
+    background-color: var(--consistant-blue);
     padding: 10px;}
 
 nav a {
@@ -9,12 +12,14 @@ nav a {
     padding: 20px}
 
 h1 {
-    color: steelblue;}
+    color: var(--consistant-blue);}
 
 main img {
-    width: 150px;
+    position:absolute;
+    right: 100px;
+    width: 200px;
     height: auto;
-    border: 1px solid steelblue;
+    border: 1px var(--consistant-blue);
     padding: 2px;
     box-shadow: 0 0 30;}
 p {padding: 0;}
@@ -25,9 +30,9 @@ main {
 aside {
     width: 12.75rem;
     margin: 1rem;
-    border: 10px solid rgb(138, 172, 252);
+    border: 10px var(--consistant-blue);
     padding: rem;
-    background-color: rgb(138, 172, 252);
+    background-color: var(--consistant-blue);
     color: hsla(200,0%,0%,.7);
     text-align: left;}
 
