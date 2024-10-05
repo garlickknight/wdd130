@@ -19,3 +19,15 @@ p{
     font-family:"roboto", "raleway", "nunito", "open sans";
     font-style: normal;
 }
+#facebook{
+    text-decoration: none;
+}
+#instagram{
+    text-decoration: none;
+}
+#tiktok{
+    text-decoration: none;
+}
+/* .social-media{
+    text-decoration: none;
+} */
