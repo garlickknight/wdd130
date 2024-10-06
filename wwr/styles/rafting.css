@@ -38,6 +38,7 @@ h1{
     color:var(--secondary-color);
     font-family:"permanent Marker", "";
     font-style: normal;
+    /* position:absolute; */
 }
 h2{
     color:var(--secondary-color);
@@ -70,8 +71,20 @@ p{
 }
 .hero article{
     position:absolute;
+    float:right;
+    background:blue;
+}
+.hero div{
+    position:relative;
+    height: 100px;
+    width:auto;
+
 }
 
 /* .social-media{
     text-decoration: none;
 } */
+.home nav{
+    font-family: "roboto";
+    font-size: medium;
+}
