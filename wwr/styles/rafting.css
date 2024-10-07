@@ -63,9 +63,15 @@ p{
     display: block;
     width: 100%;
     height:auto;
+    float:right;
+}
+#happy img{
+    float:right;
+    width: 10px;
+    height:auto;
 }
 
-#happy article{
+article{
     position:absolute;
 
 }
@@ -75,10 +81,8 @@ p{
     width:auto;
 
 }
-#happy img{
-    float:right;
-    width: 300px;
-    height: auto;
+.hero h1{
+    position:absolute top;
 }
 
 .home nav{
