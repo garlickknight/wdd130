@@ -66,30 +66,35 @@ p{
 #tiktok{
     text-decoration: none;
 }
-.hero img{
-    display: block;
-    width: 100%;
-    height:auto;
-    float:right;
-}
-#happy img{
-    float:right;
-    width: 10px;
-    height:auto;
-}
-
-article{
-    position:absolute;
-
-}
 .hero div{
     position:relative;
-    height: 100px;
-    width:auto;
-
 }
-
+article{
+    position:absolute;
+    top: 350px;
+    width: 80%;
+    height:fit-content;
+    background-color: rgba(48, 40, 152, 0.5);
+}
+.hero h1{
+    position:absolute;
+    top: 200px;
+    color: var(--accent2);
+}
+#happy {
+    height: 200px;
+    width: auto;
+    float:right;
+}
+.hero img{
+    display:block;
+    width:100%;
+    height:auto;
+}
 .home nav{
     font-family: "roboto";
     font-size: medium;
+}
+.hero p{
+    color:var(--accent2)
 }
