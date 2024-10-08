@@ -122,7 +122,7 @@ h1{
 }
 h2{
     color:var(--secondary-color);
-    font-family:"permanent Marker", serif, "roboto", serif;
+    font-family:"permanent Marker", "roboto";
     font-style: normal;
 }
 p{
