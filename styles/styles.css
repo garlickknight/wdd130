@@ -23,7 +23,9 @@ main img {
     padding: 2px;
     box-shadow:none;}
 
-p {padding: 0;}
+p {
+    padding: 0;
+}
 
 main {
     max-width: 840px}
