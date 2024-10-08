@@ -116,13 +116,13 @@ footer{
 h1{
     /* position:absolute; */
     color:var(--secondary-color);
-    font-family:"permanent Marker";
+    font-family:"permanent Marker", serif;
     font-style: normal;
     /* position:absolute; */
 }
 h2{
     color:var(--secondary-color);
-    font-family:"permanent Marker","roboto";
+    font-family:"permanent Marker", serif, "roboto", serif;
     font-style: normal;
 }
 p{
