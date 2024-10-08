@@ -21,7 +21,7 @@ main img {
     height: auto;
     border: 1px var(--consistant-blue);
     padding: 2px;
-    box-shadow: 0, 0, 30;}
+    box-shadow: 0 0 30;}
 p {padding: 0;}
 
 main {
