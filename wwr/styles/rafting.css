@@ -180,3 +180,31 @@ article{
     width: 200px;
     height:auto;
 }
+button{
+    background:rgb(255, 135, 135);
+    padding: 1rem;
+    margin: 1rem;
+}
+button:hover{
+    background-color: var(--primary-color);
+}
+#about{
+    padding:.5rem;
+    border:5px solid black;
+    border-radius:0.5rem;
+}
+#index{
+    padding:.5rem;
+    border:5px solid black;
+    border-radius:0.5rem;
+}
+#contact{
+    padding:.5rem;
+    border:5px solid black;
+    border-radius:0.5rem;
+}
+#trips{
+    padding:.5rem;
+    border:5px solid black;
+    border-radius:0.5rem;
+}
