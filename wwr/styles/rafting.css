@@ -208,3 +208,6 @@ button:hover{
     border:5px solid black;
     border-radius:0.5rem;
 }
+.employee{
+    display: flex;
+}
