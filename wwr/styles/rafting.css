@@ -104,6 +104,17 @@ article{
     width: auto;
     float:right;
 }
+#happy1{
+    height: 200px;
+    width: auto;
+    float:right;
+}
+#happy2 {
+    height: 200px;
+    width: auto;
+    float:right;
+}
+
 .hero img{
     display:block;
     width:100%;
