@@ -13,6 +13,9 @@ header{
     display:grid;
     grid-template-columns: 50% 50%;
 }
+.form{
+    font-family: "Raleway", sans-serif;
+}
 .home{
     display:flex;
     justify-content: space-around;
