@@ -29,6 +29,10 @@
         <form>
             <div>
                 <fieldset>
+                    <label for="subcription">Would you like to subscribe to our monthly newsletter</label>
+                    <input type="checkbox" id="subcription" name="subcription">
+                </fieldset>
+                <fieldset>
                     <label for="name">What is your name?</label>
                     <input type="text" id="name" name="name">
                 </fieldset>
@@ -38,14 +42,31 @@
                     <label for="email">What is your email address?</label>
                     <input type="email" id="email" name="email">
                 </fieldset>
+                <button type="submit">Submit</button>
             </div>
         </form>
-        <nav>
-            <a href="trips.html" id="trips">
+        <nav class = "trips">
+            <div>
                 <img src="images\rafting59_600.jpg" alt="Facebook">
+            </div>
+            <div>
+                <h1>view our trips here:</h1>
+                <nav>
+                    <a id = "trips" href="trips.html">TRIPS</a>
+                </nav>
+            </div>
             </a>
         </nav>
-        
+        <section class = "purpose">
+            <div class = "purposes">
+                <img src="images\rafting17_600.jpg" alt="purpose" id="purp">
+                <p>We are here to help you enjoy these amazing outdoors and have fun on your family vacations!</p>
+            </div>
+            <div class= "offerings">
+                <img src="images\little-colorado-portrait.jpg" alt="offerings" id="offer">
+                <p>Our amazing resort includes amazing world renound national park attractions! Our parks are villed with amazing red rock scenery</p>
+            </div>
+        </section>
 
     </main>
     <footer class= "foot">
