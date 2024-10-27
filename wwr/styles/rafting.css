@@ -221,5 +221,12 @@ button:hover{
 }
 .employee{
     display: flex;
+    justify-content: space-between;
+    align-content: flex-end;
+}
+.information{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
 }
 
