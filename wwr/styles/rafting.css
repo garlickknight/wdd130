@@ -191,4 +191,10 @@ button:hover{
     display:flex;
     justify-content: space-between;
 }
+#trips{
+    text-decoration: none;
+    padding:.5rem;
+    border:5px solid black;
+    border-radius:0.5rem;
+}
 
