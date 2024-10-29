@@ -233,4 +233,39 @@ button:hover{
 .purposes{
     display:grid;
 }
+#cbun{
+    width:500px;
+
+}
+.adventure{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+#colorado{
+    margin: 50px;
+    width:auto;
+    height:50%;
+    border: 5px solid black;
+    border-radius:.5rem;
+}
+#deer {
+    margin: 50px;
+    width:auto;
+    height:50%;
+    border: 5px solid black;
+    border-radius:.5rem;
+}
+#red{
+    margin: 50px;
+    width:auto;
+    height:50%;
+    border: 5px solid black;
+    border-radius:.5rem;
+}
+#test{
+    float:left;
+}
 
